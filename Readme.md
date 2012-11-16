@@ -1,1 +1,1 @@
-This is a customized portion of [https://github.com/jsoverson/JavaScript-Particle-System](Javascript-Particle-System) by [https://github.com/jsoverson](jsoverson)
+This is a customized portion of [Javascript-Particle-System](https://github.com/jsoverson/JavaScript-Particle-System) by [jsoverson](https://github.com/jsoverson)
