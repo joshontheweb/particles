@@ -1,1 +1,1 @@
-This is a customized portion of Javascript-Particle-System by jsoverson
+This is a customized portion of [http://whatev.com](Javascript-Particle-System) by jsoverson
